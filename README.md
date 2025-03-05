@@ -1,7 +1,11 @@
 👋 Hola, soy Erika Barrios Torres
+
 📊 Analista de Datos con experiencia en SQL, Python y Power BI.
+
 🚀 Apasionada por el análisis, visualización y automatización de datos.
+
 📂 Mis proyectos incluyen dashboards, KPIs y reportes automatizados.
+
 📩 Conéctate conmigo: linkedin.com/in/erikabarriost
 
 <!---
